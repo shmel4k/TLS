@@ -7,9 +7,9 @@ run ./build.sh
 (both executive files will be built in the appropriate folders)
 
 
-Usage: "./server <portnum>"
+Usage: ./server \<portnum\>
   
-Usage: "./client -h <hostname> -p <portnum> -f <file>"
+Usage: ./client -h \<hostname\> -p \<portnum\> -f \<file\>"
   
 where <file> is a one to sent to the server to calculate
 
