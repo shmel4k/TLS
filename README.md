@@ -4,7 +4,7 @@ TLS client-server
 to build:
 run ./build.sh
 
-(both executive files will be built)
+(both executive files will be built in the appropriate folders)
 
 
 Usage: ./server <portnum>
